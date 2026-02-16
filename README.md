@@ -4,7 +4,7 @@ Ask me about 42
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=amxamxa&theme=synthwave)
 
-
+![](https://streak-stats.demolab.com?user=amxamxa&theme=synthwave)
 ## 🌐 Socials:
 [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:9xffjgjob@mozmail.com) 
 
