@@ -2,14 +2,12 @@
 Ask me about 42
 
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=amxamxa&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
+![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=amxamxa&theme=synthwave)
 
 
 ## 🌐 Socials:
 [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:9xffjgjob@mozmail.com) 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=amxamxa&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&show_icons=true&theme=synthwave)
 
 # 💻 Tech Stack:
 
